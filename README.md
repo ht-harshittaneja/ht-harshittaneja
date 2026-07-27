@@ -1,4 +1,3 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/https://github.com/ht-harshittaneja/count.svg" alt="Visitor's Count" />
-</div>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ht-harshittaneja&icon=5&color=0" />
+</p>

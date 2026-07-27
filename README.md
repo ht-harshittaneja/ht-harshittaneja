@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ht-harshittaneja&icon=5&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=ht-harshittaneja&label=Visitors&style=for-the-badge" />
 </p>

@@ -9,11 +9,6 @@
 
 <br>
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ht-harshittaneja&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="180em" src="https://streak-stats.demolab.com?user=ht-harshittaneja&theme=transparent&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ht-harshittaneja&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ht-harshittaneja&theme=transparent" />
 </div>
 <hr>

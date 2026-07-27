@@ -9,6 +9,8 @@
 
 <br>
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ht-harshittaneja&layout=donut&theme=github_dark&hide_border=true" />
 <img src="https://streak-stats.demolab.com?user=ht-harshittaneja&theme=transparent" />
+
 </div>
 <hr>
